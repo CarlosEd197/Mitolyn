@@ -1,5 +1,5 @@
-name: 'Deploy to Render.com'
-author: 'Bankflip <tech@bankflip.io>'
+name: 'Mitolyn Reviews: A Comprehensive Analysis of the Mitochondrial Boosting Supplement'
+author: 'tlg @feues'
 description: 'A GitHub Action to trigger and track deployment in Render'
 inputs:
   deployHookURL:
